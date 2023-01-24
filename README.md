@@ -6,7 +6,6 @@ Md. Saif Hassan Onim is pursuing his Ph.D. in Computer Engineering at the Univer
 
 
 ### My skills: <br/> <br/> ![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python) ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![C](https://img.shields.io/badge/-C-f0d00?style=flat&logoColor=white&logo=c) ![LaTeX](https://img.shields.io/badge/-LaTeX-ff0ab0?style=flat&logoColor=white&logo=latex) ![Assembly](https://img.shields.io/badge/-Assembly-00000AB?style=flat&logoColor=white&logo=assemblyscript)
-)
  
 <center>
   <table>
